@@ -21,3 +21,4 @@ This project was built primarily through javaScript to detect and censor/blur th
 Completed
 
 ### **View My Project**
+https://davidkrem.github.io/Face-Detection/
